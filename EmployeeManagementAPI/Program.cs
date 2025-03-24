@@ -26,7 +26,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseCors();
-
+//added comment
 
 app.UseAuthorization();
 
