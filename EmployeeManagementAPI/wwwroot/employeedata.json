@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ananya",
+    "lastName": "Sharma",
+    "email": "ananya.sharma@example.com",
+    "phone": "+91-9876543210",
+    "department": "Human Resources",
+    "designation": "HR Manager",
+    "salary": 65000,
+    "dateOfJoining": "2019-04-15",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "firstName": "Rahul",
+    "lastName": "Verma",
+    "email": "rahul.verma@example.com",
+    "phone": "+91-9123456780",
+    "department": "Engineering",
+    "designation": "Senior Developer",
+    "salary": 85000,
+    "dateOfJoining": "2020-01-10",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "firstName": "Meera",
+    "lastName": "Nair",
+    "email": "meera.nair@example.com",
+    "phone": "+91-9988776655",
+    "department": "Finance",
+    "designation": "Accountant",
+    "salary": 55000,
+    "dateOfJoining": "2018-07-23",
+    "status": "On Leave"
+  },
+  {
+    "id": 4,
+    "firstName": "Amit",
+    "lastName": "Kumar",
+    "email": "amit.kumar@example.com",
+    "phone": "+91-9001234567",
+    "department": "Marketing",
+    "designation": "Marketing Executive",
+    "salary": 48000,
+    "dateOfJoining": "2021-09-01",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "firstName": "Sneha",
+    "lastName": "Patel",
+    "email": "sneha.patel@example.com",
+    "phone": "+91-8899776655",
+    "department": "IT Support",
+    "designation": "Support Engineer",
+    "salary": 42000,
+    "dateOfJoining": "2022-03-18",
+    "status": "Resigned"
+  }
+]
+  
